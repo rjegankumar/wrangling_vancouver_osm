@@ -1,0 +1,6 @@
+http://wiki.openstreetmap.org/
+https://docs.python.org/2/library/xml.etree.elementtree.html?highlight=elementtree#module-xml.etree.ElementTree
+https://docs.mongodb.com/
+http://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&lettr=indx_catlog_t&page=9W7A26eVMyvE.html
+https://en.wikipedia.org/wiki/Postal_codes_in_Canada
+https://en.wikipedia.org/wiki/List_of_V_postal_codes_of_Canada
